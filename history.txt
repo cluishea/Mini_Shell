@@ -1,0 +1,16 @@
+exit
+echo hello a.txt
+touch a.txt
+rm a.exe
+exit
+automate automate.txt
+exit
+automate automate.txt
+pwd
+ls
+help
+exit
+help
+pwd
+ls
+exit

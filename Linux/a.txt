@@ -1,0 +1,8 @@
+total 40
+drwxrwxr-x 2 kumud kumud  4096 May 13 18:09 .
+drwxrwxr-x 5 kumud kumud  4096 May 13 17:58 ..
+-rw-rw-r-- 1 kumud kumud  3296 May 13 18:07 Commands.c
+-rw-rw-r-- 1 kumud kumud   221 May 12 13:34 Commands.h
+-rwxrwxr-x 1 kumud kumud 16952 May 13 18:08 Shell
+-rw-rw-r-- 1 kumud kumud  1460 May 12 13:50 Shell.c
+-rw-r--r-- 1 kumud kumud     0 May 13 18:09 a.txt
